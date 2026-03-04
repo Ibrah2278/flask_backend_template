@@ -22,7 +22,7 @@ Suivez ces étapes pour configurer et lancer votre environnement de développeme
 1. Cloner le projet
 Bash
 
-git clone https://github.com/votre-username/votre-repo.git
+git clone https://github.com/Ibrah2278/flask_backend_template.git
 cd votre-repo/backend
 2. Créer l'environnement virtuel
 Il est fortement recommandé d'utiliser un environnement virtuel pour isoler vos dépendances.
